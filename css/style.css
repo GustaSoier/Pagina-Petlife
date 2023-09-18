@@ -25,6 +25,11 @@ header nav a{
     color: #fff;
     font-weight: 600;
     padding: 32px;
+    transition: .5s;
+}
+
+header nav a:hover{
+    color: red;
 }
 /* #endregion header */
 
