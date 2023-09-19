@@ -74,6 +74,19 @@ h1, h2{
     width: 100%;
     z-index: -10;
 }
+
+
+
+@keyframes flutuar{
+
+        0%{
+            top: 0;
+        }
+    
+        100%{
+            top: 30px;
+        }
+}
 /* #endregion inicio */
 
 /* #region clinica */
